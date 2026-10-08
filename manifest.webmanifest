@@ -1,0 +1,30 @@
+{
+ "name": "Bancada de Comando",
+ "short_name": "Bancada",
+ "description": "Editor e simulador de esquemas elétricos (comando e potência trifásica) com gerador de código ESP32 e exportação em PDF.",
+ "lang": "pt-BR",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#e8ecf0",
+ "theme_color": "#0a7a74",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

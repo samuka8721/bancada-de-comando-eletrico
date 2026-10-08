@@ -1,0 +1,12 @@
+Bancada de Comando (rev1.7) - app instalável
+
+Como instalar
+1. Coloque esta pasta em um endereço https (GitHub Pages, Netlify, Cloudflare Pages ou servidor da escola)
+   ou rode localmente:  python3 -m http.server 8000   e abra http://localhost:8000
+2. No Chrome/Edge, clique em "Instalar app" (no topo da página) ou no ícone de instalar na barra de endereços.
+   No celular Android: menu do Chrome > Instalar app. No iPhone (Safari): Compartilhar > Adicionar à Tela de Início.
+3. Depois da primeira abertura, o app funciona offline (fontes e bibliotecas de PDF estão na pasta).
+
+Observações
+- Abrir index.html direto com duplo clique funciona, mas sem instalação e sem modo offline (o navegador exige http/https).
+- Os esquemas ficam salvos no navegador do aparelho. Use Importar / Exportar para fazer cópia de segurança.
